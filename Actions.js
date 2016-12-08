@@ -29,7 +29,7 @@ export function clearCompleted(index) {
 	}
 }
 
-export function setVisibilityFilter(filer) {
+export function setVisibilityFilter(filter) {
 	return {
 		type: ActionType.CHANGE_VISIBILITY,
 		payload: {filter: filter}

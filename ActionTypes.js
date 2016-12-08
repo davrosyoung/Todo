@@ -9,3 +9,4 @@ export const TOGGLE_DONE = 2;
 export const CLEAR_COMPLETED = 4;
 export const CHANGE_VISIBILITY = 5;
 
+export default ActionTypes;
